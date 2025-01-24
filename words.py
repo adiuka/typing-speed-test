@@ -1,0 +1,20 @@
+word_list = [
+    "the", "of", "and", "a", "to", "in", "is", "you", "that", "it",
+    "he", "was", "for", "on", "are", "with", "as", "I", "his", "they",
+    "be", "at", "one", "have", "this", "from", "or", "had", "by", "hot",
+    "word", "but", "what", "some", "we", "can", "out", "other", "were",
+    "all", "there", "when", "up", "use", "your", "how", "said", "an",
+    "each", "she", "which", "do", "their", "time", "if", "will", "way",
+    "about", "many", "then", "them", "write", "would", "like", "so",
+    "these", "her", "long", "make", "thing", "see", "him", "two", "has",
+    "look", "more", "day", "could", "go", "come", "did", "number",
+    "sound", "no", "most", "people", "my", "over", "know", "than",
+    "first", "water", "been", "call", "who", "oil", "its", "now", "find",
+    "bed", "area", "book", "business", "case", "child", "city", "company",
+    "country", "day", "eye", "fact", "family", "government", "group",
+    "hand", "home", "job", "life", "lot", "man", "money", "month",
+    "night", "number", "part", "people", "place", "point", "problem",
+    "program", "question", "right", "room", "school", "state", "story",
+    "student", "study", "system", "table", "thing", "time", "water",
+    "way", "week", "woman", "word", "work", "world", "year"
+]
