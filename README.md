@@ -11,3 +11,5 @@ Room for improvement:
 4. I am sure I can simplify the code, as it ended up being more complicated than I though. Working with timers is complex in my oppinion so would love to come back here and make it more simple.
 
 Otherwise, happy typing!
+
+![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JzZ3BtNzZ1czAyNjU1eWFxNDNydTN2dm5iczRwNGhuZDVyaGw0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3z5Y1XgGaJoaEfzSo/giphy.gif)
